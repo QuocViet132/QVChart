@@ -19,6 +19,8 @@ dependencies {
 }
 ```
 
+![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pie_chart.webp?raw=true)
+
 ## XML Layout
 ```
     <com.library.chart.piechart.RoundedPieChartView
@@ -45,6 +47,7 @@ dependencies {
     binding.pieChart.setColor(colors)
     binding.pieChart.setData(list)
 ```
+![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.webp?raw=true)
 
 ## XML Layout
 ```
