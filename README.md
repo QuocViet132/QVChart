@@ -13,6 +13,8 @@ maven { url 'https://jitpack.io' }
 ```
 
 2 . Add Gradle app
+```
 dependencies {
-  implementation 'com.github.QuocViet132:QVChart:v1.0.0'
+    implementation 'com.github.QuocViet132:QVChart:v1.0.0'
 }
+```
