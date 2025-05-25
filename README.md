@@ -67,4 +67,5 @@ val segments = listOf(
 )
 
 binding.mcProgress.setSegments(segments)
+binding.mcProgress.setSpacing(15f)
 ```
