@@ -1,11 +1,12 @@
 # QVChart
 
-# RoundedPieChartView
-
 A customizable rounded pie chart view for Android written in Kotlin.
 
-![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pieChart.png?raw=true)
-![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.png?raw=true)
+<p align="center">
+  <img src="https://github.com/QuocViet132/QVChart/blob/master/pieChart.png?raw=true" height="150"/>
+  <img src="https://github.com/QuocViet132/QVChart/blob/master/progressbar.png?raw=true" height="150"/>
+</p>
+
 
 ## Setup
 
