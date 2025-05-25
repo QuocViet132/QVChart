@@ -3,6 +3,7 @@
 # RoundedPieChartView
 
 A customizable rounded pie chart view for Android written in Kotlin.
+
 ![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pie_chart.webp?raw=true)
 ![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.webp?raw=true)
 
@@ -11,13 +12,13 @@ A customizable rounded pie chart view for Android written in Kotlin.
 1. Add JitPack to your `settings.gradle`:
 
 ```kotlin
-maven { url 'https://jitpack.io' }
+maven("https://jitpack.io")
 ```
 
 2 . Add Gradle app
 ```
 dependencies {
-    implementation 'com.github.QuocViet132:QVChart:v1.0.0'
+    implementation("com.github.QuocViet132:QVChart:v1.0.0")
 }
 ```
 
