@@ -25,11 +25,11 @@ dependencies {
 ## Pie Chart
 ### XML Layout
 ```
-xml &lt;com.library.chart.piechart.RoundedPieChartView
+<com.library.chart.piechart.RoundedPieChartView
     android:id="@+id/pieChart"
     android:layout_width="230dp"
     android:layout_height="230dp"
-    android:layout_marginTop="40dp" /&gt;
+    android:layout_marginTop="40dp" />
 ```
 
 ### Activity
