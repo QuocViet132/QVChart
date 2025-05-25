@@ -3,7 +3,8 @@
 A customizable rounded pie chart view for Android written in Kotlin.
 
 ![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pieChart.png?raw=true)
-            ![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.png?raw=true)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.png?raw=true)
 
 ## Setup
 
