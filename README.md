@@ -3,6 +3,8 @@
 # RoundedPieChartView
 
 A customizable rounded pie chart view for Android written in Kotlin.
+![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pie_chart.webp?raw=true)
+![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.webp?raw=true)
 
 ## Setup
 
@@ -19,9 +21,8 @@ dependencies {
 }
 ```
 
-![PieChart](https://github.com/QuocViet132/QVChart/blob/master/pie_chart.webp?raw=true)
-
-## XML Layout
+## Pie Chart
+### XML Layout
 ```
     <com.library.chart.piechart.RoundedPieChartView
         android:id="@+id/pieChart"
@@ -30,7 +31,7 @@ dependencies {
         android:layout_marginTop="40dp" />
 ```
 
-## Activity
+### Activity
 ```
     val list = listOf<Float>(10f, 30f, 50f, 10f)
     val colors = listOf<Int>(
@@ -47,9 +48,9 @@ dependencies {
     binding.pieChart.setColor(colors)
     binding.pieChart.setData(list)
 ```
-![ProgressBar](https://github.com/QuocViet132/QVChart/blob/master/progressbar.webp?raw=true)
 
-## XML Layout
+## ProgressBar
+### XML Layout
 ```
     <com.library.chart.seekbar.MultiColorProgressBar
         android:id="@+id/mcProgress"
@@ -57,7 +58,7 @@ dependencies {
         android:layout_height="10dp" />
 ```
 
-## Activity
+### Activity
 ```
     val segments = listOf(
         Pair(50f, Color.parseColor("#6366F1")),
